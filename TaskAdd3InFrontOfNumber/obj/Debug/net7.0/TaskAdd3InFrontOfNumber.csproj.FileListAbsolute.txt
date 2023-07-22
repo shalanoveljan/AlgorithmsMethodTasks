@@ -1,0 +1,15 @@
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\bin\Debug\net7.0\TaskAdd3InFrontOfNumber.exe
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\bin\Debug\net7.0\TaskAdd3InFrontOfNumber.deps.json
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\bin\Debug\net7.0\TaskAdd3InFrontOfNumber.runtimeconfig.json
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\bin\Debug\net7.0\TaskAdd3InFrontOfNumber.dll
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\bin\Debug\net7.0\TaskAdd3InFrontOfNumber.pdb
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.csproj.AssemblyReference.cache
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.AssemblyInfoInputs.cache
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.AssemblyInfo.cs
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.csproj.CoreCompileInputs.cache
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.dll
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\refint\TaskAdd3InFrontOfNumber.dll
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.pdb
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\TaskAdd3InFrontOfNumber.genruntimeconfig.cache
+C:\Users\OMEN\Desktop\VS Code\TaskAdd3InFrontOfNumber\obj\Debug\net7.0\ref\TaskAdd3InFrontOfNumber.dll
